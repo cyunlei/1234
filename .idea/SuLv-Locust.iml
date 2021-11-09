@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages">
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/pip-21.3.1-py3.6.egg" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/pythonwin" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/win32" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/win32/lib" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.6" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
